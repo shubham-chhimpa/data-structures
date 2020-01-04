@@ -167,13 +167,13 @@ int main(){
 
 	//  GIVEN TREE
 	/*
-			 5          level 0
-			/ \         
+	             5          level 0
+		    / \         
 		   3   7        level 1
 		  / \
 		 2   4          level 2
 		/
-	   1                level 3
+	       1                level 3
 
 	*/
 
